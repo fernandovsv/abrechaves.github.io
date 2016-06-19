@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://fernandovsv.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://abrechaves.github.io
+title: Abre Chaves
+subtitle:
+author: Abre Chaves
 simple_search: https://www.google.com/search
 description:
 
